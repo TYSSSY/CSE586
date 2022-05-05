@@ -1,6 +1,8 @@
 # CSE586 Final Project
 >Implementation based on [paper](https://arxiv.org/pdf/2103.13915.pdf)
 >
+>Link of shrinked dataset: https://drive.google.com/drive/folders/13JhsP77VtiV0r1PhX9Rm_RLtpfYel3FW?usp=sharing
+>
 >To run the model:
 >
 >In trainer.py
