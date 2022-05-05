@@ -19,3 +19,8 @@
 >```bash
 > python trainer.py
 > ```
+>To test different architectures:
+>
+>In stam/transformer_model.py class SpatialTemporalBLock, change aggregate in self.spatial_temporal_encoder and self.temporal_spatial_encoder to:
+>temporal_aggregate, spatial_aggregate, temporal_mean_aggregate, spatial_mean_aggregate
+>
